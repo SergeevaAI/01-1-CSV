@@ -1,1 +1,1 @@
-# 2-course
+# 01-2 Product analytics.
